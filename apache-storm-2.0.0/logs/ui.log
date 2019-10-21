@@ -1,0 +1,28 @@
+2019-10-21 15:03:40.913 o.a.s.v.ConfigValidation main [WARN] task.heartbeat.frequency.secs is a deprecated config please see class org.apache.storm.Config.TASK_HEARTBEAT_FREQUENCY_SECS for more information.
+2019-10-21 15:03:40.940 o.e.j.u.log main [INFO] Logging initialized @1038ms to org.eclipse.jetty.util.log.Slf4jLog
+2019-10-21 15:03:41.194 o.a.s.d.m.ClientMetricsUtils main [INFO] Using statistics reporter plugin:org.apache.storm.daemon.metrics.reporters.JmxPreparableReporter
+2019-10-21 15:03:41.195 o.a.s.d.m.r.JmxPreparableReporter main [INFO] Preparing...
+2019-10-21 15:03:41.202 o.a.s.m.StormMetricsRegistry main [INFO] Started statistics report plugin...
+2019-10-21 15:03:41.210 o.e.j.s.Server main [INFO] jetty-9.4.14.v20181114; built: 2018-11-14T21:20:31.478Z; git: c4550056e785fb5665914545889f21dc136ad9e6; jvm 1.8.0_181-b13
+2019-10-21 15:03:41.254 o.e.j.s.session main [INFO] DefaultSessionIdManager workerName=node0
+2019-10-21 15:03:41.254 o.e.j.s.session main [INFO] No SessionScavenger set, using defaults
+2019-10-21 15:03:41.255 o.e.j.s.session main [INFO] node0 Scavenging every 600000ms
+2019-10-21 15:03:42.133 o.e.j.s.h.ContextHandler main [INFO] Started o.e.j.s.ServletContextHandler@66e889df{/,null,AVAILABLE}
+2019-10-21 15:03:42.439 o.e.j.s.AbstractConnector main [INFO] Started ServerConnector@4648dcae{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+2019-10-21 15:03:42.440 o.e.j.s.Server main [INFO] Started @2539ms
+2019-10-21 15:04:16.885 o.a.s.v.ConfigValidation qtp884603232-25 [WARN] task.heartbeat.frequency.secs is a deprecated config please see class org.apache.storm.Config.TASK_HEARTBEAT_FREQUENCY_SECS for more information.
+2019-10-21 15:04:17.006 o.a.s.u.NimbusClient qtp884603232-25 [INFO] Found leader nimbus : nw39676.nwmissouri.edu:6627
+2019-10-21 15:40:01.765 o.a.s.v.ConfigValidation main [WARN] task.heartbeat.frequency.secs is a deprecated config please see class org.apache.storm.Config.TASK_HEARTBEAT_FREQUENCY_SECS for more information.
+2019-10-21 15:40:01.798 o.e.j.u.log main [INFO] Logging initialized @1150ms to org.eclipse.jetty.util.log.Slf4jLog
+2019-10-21 15:40:02.107 o.a.s.d.m.ClientMetricsUtils main [INFO] Using statistics reporter plugin:org.apache.storm.daemon.metrics.reporters.JmxPreparableReporter
+2019-10-21 15:40:02.109 o.a.s.d.m.r.JmxPreparableReporter main [INFO] Preparing...
+2019-10-21 15:40:02.117 o.a.s.m.StormMetricsRegistry main [INFO] Started statistics report plugin...
+2019-10-21 15:40:02.126 o.e.j.s.Server main [INFO] jetty-9.4.14.v20181114; built: 2018-11-14T21:20:31.478Z; git: c4550056e785fb5665914545889f21dc136ad9e6; jvm 1.8.0_181-b13
+2019-10-21 15:40:02.177 o.e.j.s.session main [INFO] DefaultSessionIdManager workerName=node0
+2019-10-21 15:40:02.177 o.e.j.s.session main [INFO] No SessionScavenger set, using defaults
+2019-10-21 15:40:02.178 o.e.j.s.session main [INFO] node0 Scavenging every 660000ms
+2019-10-21 15:40:03.218 o.e.j.s.h.ContextHandler main [INFO] Started o.e.j.s.ServletContextHandler@66e889df{/,null,AVAILABLE}
+2019-10-21 15:40:03.518 o.e.j.s.AbstractConnector main [INFO] Started ServerConnector@5eb97ced{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+2019-10-21 15:40:03.519 o.e.j.s.Server main [INFO] Started @2873ms
+2019-10-21 15:40:19.549 o.a.s.v.ConfigValidation qtp884603232-15 [WARN] task.heartbeat.frequency.secs is a deprecated config please see class org.apache.storm.Config.TASK_HEARTBEAT_FREQUENCY_SECS for more information.
+2019-10-21 15:40:19.690 o.a.s.u.NimbusClient qtp884603232-15 [INFO] Found leader nimbus : nw39676.nwmissouri.edu:6627
