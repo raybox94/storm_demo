@@ -2,6 +2,9 @@
 ## Link to Slides 
 - [Slides](https://docs.google.com/presentation/d/1eDvfEVDBhZQHLmNh9KM6dvsFpDR6WPqx4cu7gANdUpw/edit?usp=sharing)
 
+## Team Slides
+ ![Team Slide](https://github.com/raybox94/storm_demo/blob/master/images/Screenshot%20(200).png)
+        
 ## Prerequisite
 
 - Python
